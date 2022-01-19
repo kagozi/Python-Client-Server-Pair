@@ -25,3 +25,7 @@ Alex Kagozi
 ---
 ## LICENSE AND COPYRIGHT
 Copyright &copy; Alex Kagozi
+
+
+## SCREENSHOTS
+![server-client](https://user-images.githubusercontent.com/70429029/150092604-a5c4023e-c020-44a8-adb6-e5aefbacfebb.png)
